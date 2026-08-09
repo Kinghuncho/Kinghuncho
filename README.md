@@ -1,16 +1,97 @@
-## Hi there 👋
+# 👋 Hi, I'm King Huncho
 
-<!--
-**Kinghuncho/Kinghuncho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Front-End Developer | Web Development | JavaScript**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building practical, responsive, and user-friendly web applications while continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional digital experiences and learning through real-world projects.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌦️ Weather App
+
+A responsive weather application that provides real-time weather information using a weather API.
+
+**Built with:** HTML • CSS • JavaScript • Weather API
+
+🔗 **[Live Demo](https://kinghuncho.github.io/weather-app/)**
+
+---
+
+### 💰 Expense Tracker
+
+A simple and responsive application for recording, managing, and tracking daily expenses.
+
+**Built with:** HTML • CSS • JavaScript • Local Storage
+
+🔗 **[Live Demo](https://kinghuncho.github.io/expense-tracker/)**
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my projects, skills, and development journey.
+
+**Built with:** HTML • CSS • JavaScript
+
+🔗 **[Visit My Portfolio](https://kinghuncho.github.io/portfolio/)**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Front-End
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Development Tools
+
+* Git
+* GitHub
+* GitHub Pages
+* Visual Studio Code
+
+### Currently Exploring
+
+* JavaScript
+* APIs
+* Responsive Web Design
+* Modern Front-End Development
+* Building practical web applications
+
+---
+
+## 📊 What I'm Working On
+
+🚀 Building and improving web applications
+
+💡 Turning ideas into practical projects
+
+📚 Continuously learning new development skills
+
+🌐 Growing my developer portfolio
+
+---
+
+## 🎯 My Goal
+
+My goal is to continue developing my skills through practical projects, contribute to meaningful digital solutions, and grow as a professional web developer.
+
+---
+
+## 🌐 Connect With Me
+
+**Portfolio:**
+https://kinghuncho.github.io/portfolio/
+
+**GitHub:**
+https://github.com/Kinghuncho
+
+---
+
+⭐ Thanks for visiting my profile!
+
