@@ -18,6 +18,7 @@ A full-stack business management application for managing products, inventory, p
 
 [🌐 Live Demo](https://kinghuncho.github.io/stock-manager/) • [💻 View Source](https://github.com/Kinghuncho/stock-manager)
 
+---
 
 ### 🌦️ Weather App
 
