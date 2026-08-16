@@ -10,6 +10,15 @@ I enjoy turning ideas into functional digital experiences and learning through r
 
 ## 🚀 Featured Projects
 
+### 📦 Stock Manager — Business Management & Inventory System
+
+A full-stack business management application for managing products, inventory, purchases, sales, expenses, dashboards, and business reports.
+
+**Tech:** HTML • CSS • JavaScript • Node.js • Express.js • PostgreSQL
+
+[🌐 Live Demo](https://kinghuncho.github.io/stock-manager/) • [💻 View Source](https://github.com/Kinghuncho/stock-manager)
+
+
 ### 🌦️ Weather App
 
 A responsive weather application that provides real-time weather information using a weather API.
